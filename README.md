@@ -20,3 +20,6 @@
 
 ### Paso
 <img src="/screenshots/Paso-3.png" alt="...">
+
+## Funcionamiento de aplicaciones
+<img src="/screenshots/captura_dolores_hoy.jpeg" alt="...">
